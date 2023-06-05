@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Wishlist/static/css/main.7d80f464.chunk.css",
+    "main.js": "/Wishlist/static/js/main.9bfc0738.chunk.js",
+    "main.js.map": "/Wishlist/static/js/main.9bfc0738.chunk.js.map",
+    "runtime-main.js": "/Wishlist/static/js/runtime-main.957f103e.js",
+    "runtime-main.js.map": "/Wishlist/static/js/runtime-main.957f103e.js.map",
+    "static/css/2.846a12e0.chunk.css": "/Wishlist/static/css/2.846a12e0.chunk.css",
+    "static/js/2.e6f6df8f.chunk.js": "/Wishlist/static/js/2.e6f6df8f.chunk.js",
+    "static/js/2.e6f6df8f.chunk.js.map": "/Wishlist/static/js/2.e6f6df8f.chunk.js.map",
+    "index.html": "/Wishlist/index.html",
+    "static/css/2.846a12e0.chunk.css.map": "/Wishlist/static/css/2.846a12e0.chunk.css.map",
+    "static/css/main.7d80f464.chunk.css.map": "/Wishlist/static/css/main.7d80f464.chunk.css.map",
+    "static/js/2.e6f6df8f.chunk.js.LICENSE.txt": "/Wishlist/static/js/2.e6f6df8f.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/Wishlist/static/media/poppins-latin-ext-400-normal.4f38b433.woff2",
+    "static/media/500.css": "/Wishlist/static/media/poppins-latin-ext-500-normal.b59bcdf2.woff2",
+    "static/media/600.css": "/Wishlist/static/media/poppins-latin-ext-600-normal.d08f0891.woff2",
+    "static/media/700.css": "/Wishlist/static/media/poppins-latin-ext-700-normal.63d2a696.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.957f103e.js",
+    "static/css/2.846a12e0.chunk.css",
+    "static/js/2.e6f6df8f.chunk.js",
+    "static/css/main.7d80f464.chunk.css",
+    "static/js/main.9bfc0738.chunk.js"
+  ]
+}
