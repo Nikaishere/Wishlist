@@ -3,7 +3,7 @@ import { format } from 'date-fns';
 import { MdDelete, MdEdit } from 'react-icons/md';
 import { toast } from 'react-hot-toast';
 import { useDispatch } from 'react-redux';
-import { deleteTodo, updateTodo } from '../slices/todoSlice';
+import { deleteTodo } from '../slices/todoSlice';
 import styles from '../styles/modules/todoItem.module.scss';
 import { getClasses } from '../utils/getClasses';
 import Modal from './Modal';

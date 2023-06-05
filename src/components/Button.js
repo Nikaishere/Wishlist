@@ -1,4 +1,4 @@
-import React, { Children } from 'react';
+import React from 'react';
 import styles from '../styles/modules/button.module.scss';
 import { getClasses } from '../utils/getClasses';
 
@@ -21,7 +21,7 @@ function Button({ children, type, variant, ...rest }) {
   );
 }
 
-function SelectButton({ children, id, ...rest }) {
+function SelectButton({ children, ...rest }) {
   return (
     <select
       className={getClasses([styles.button, styles.button__select])}
